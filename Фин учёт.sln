@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Фин учёт", "Фин учёт\Фин учёт.csproj", "{DDA49E61-BF25-4A9E-BD72-35797569F73D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDA49E61-BF25-4A9E-BD72-35797569F73D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDA49E61-BF25-4A9E-BD72-35797569F73D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDA49E61-BF25-4A9E-BD72-35797569F73D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDA49E61-BF25-4A9E-BD72-35797569F73D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F6E59341-7477-46B0-822A-3856D13FF57B}
+	EndGlobalSection
+EndGlobal
